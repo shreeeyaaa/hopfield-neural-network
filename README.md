@@ -10,7 +10,7 @@ The Hopfield neural network is a type of artificial neural network. This network
 
 ### Clone this repository
 ```bash
-git clone https://github.com/CRei-7/Hopfield-Neural-Network.git
+git clone https://github.com/shreeeyaaa/hopfield-neural-network
 ```
 ### Go into the repository
 ```bash
